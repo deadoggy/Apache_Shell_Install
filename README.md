@@ -6,7 +6,7 @@
 ## usage: 
 
 ```
-tar -xvzf Apache_install.tar,gz
+tar -xvzf Apache_install.tar.gz
 
 cd Apache_install
 
