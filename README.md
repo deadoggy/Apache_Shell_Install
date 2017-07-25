@@ -6,9 +6,9 @@
 ## usage: 
 
 ```
-tar -xvzf Apache_install.tar.gz
+tar -xvzf Apache_Install.tar.gz
 
-cd Apache_install
+cd Apache_Install
 
 ./install.sh
 ```
